@@ -1,0 +1,18 @@
+* body {
+    margin: 0;
+    
+}
+h1, h2 {
+    font-weight: 100;
+    padding-left: 50%;
+}
+#increment-btn{
+    background-color: brown;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin: auto;
+}
