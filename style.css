@@ -16,3 +16,9 @@ h1, h2 {
     border-radius: 5px;
     margin: auto;
 }
+.container{
+    margin:4em;
+    display:flex;
+   justify-content:center;
+   align-items:center;
+}
